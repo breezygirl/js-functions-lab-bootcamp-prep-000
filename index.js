@@ -1,6 +1,6 @@
 // write your code below!
-var happyHolidays (Happy holiday!) {
-console.log(happyHolidays)
+var happyHolidays = "Happy holiday!"; {
+console.log(happyHolidays);
    
 }
 
